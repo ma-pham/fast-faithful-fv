@@ -1,5 +1,7 @@
 # Fast and Faithful Function Vectors
 
+This is the code accompanying the ICML 2026 MechInterp workshop submission "Fast and Faithful Function Vectors". This anonymised repository is meant only for inspection purposes during the review process. A further refactoring and documentation will be done before public release.
+
 ## Setup
 
 ### Environment
